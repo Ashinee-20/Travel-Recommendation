@@ -1,0 +1,90 @@
+Tourist Spot,City,Location Lat,Location Long,Budget (INR),Opening Time,Closing Time,Seasonality
+Adalaj Stepwell,Ahmedabad,23.1686,72.5901,0,06:00:00,18:00:00,All
+Albert Hall Museum,Jaipur,26.9115,75.8194,100,09:00:00,17:00:00,All
+Amber Fort,Jaipur,26.9855,75.8513,500,08:00:00,17:30:00,All
+Anjuna Beach,Goa,15.5865,73.7398,0,00:00:00,23:59:59,All
+Art of Living International Center,Bangalore,12.8614,77.7260,0,00:00:00,23:59:59,All
+Baga Beach,Goa,15.5505,73.7551,0,00:00:00,23:59:59,All
+Bangalore Palace,Bangalore,12.9985,77.5929,500,10:00:00,17:30:00,All
+Bannerghatta National Park,Bangalore,12.8,77.577,500,09:30:00,17:00:00,All
+Basilica of Bom Jesus,Goa,15.4989,73.8258,0,09:00:00,18:30:00,All
+Belur Math,Kolkata,22.6281,88.361,0,06:00:00,12:00:00,All
+Betaab Valley,Kashmir,34.0232,74.6519,0,00:00:00,23:59:59,All
+Birla Mandir,Hyderabad,17.4062,78.4691,0,07:00:00,12:00:00,All
+Calangute Beach,Goa,15.5455,73.7513,0,00:00:00,23:59:59,All
+Charminar,Hyderabad,17.3616,78.4747,50,09:00:00,17:00:00,All
+Chhatarpur Temple,Delhi,28.5016,77.1848,0,06:00:00,22:00:00,All
+Chhatrapati Shivaji Maharaj Terminus,Mumbai,18.9401,72.8358,0,00:00:00,23:59:59,All
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Mumbai,18.9261,72.8327,100,10:00:00,18:00:00,All
+Chhota Kashmir,Mumbai,19.1499,72.9367,20,09:00:00,18:00:00,All
+City Palace,Jaipur,26.9255,75.8236,300,09:30:00,17:00:00,All
+Colva Beach,Goa,15.2765,73.9205,0,00:00:00,23:59:59,All
+Cubbon Park,Bangalore,12.9767,77.5956,0,06:00:00,18:00:00,All
+Dakshineswar Kali Temple,Kolkata,22.6529,88.3575,0,06:00:00,12:30:00,All
+Dal Lake,Kashmir,34.0837,74.7973,0,00:00:00,23:59:59,All
+Dona Paula,Goa,15.4626,73.7623,0,00:00:00,23:59:59,All
+Dudhsagar Falls,Goa,15.314,74.3146,0,00:00:00,23:59:59,All
+Elephanta Caves,Mumbai,18.9647,72.9315,500,09:00:00,17:30:00,All
+Essel World,Mumbai,19.2303,72.8153,1000,10:00:00,19:00:00,All
+Fort Aguada,Goa,15.4981,73.765,200,09:30:00,18:30:00,All
+Gandhi Smriti,Delhi,28.6029,77.1931,0,10:00:00,17:00:00,All
+Gateway of India,Mumbai,18.922,72.8347,0,00:00:00,23:59:59,All
+Gavi Gangadhareshwara Temple,Bangalore,12.9507,77.5749,0,06:00:00,20:00:00,All
+Golconda Fort,Hyderabad,17.3833,78.4011,200,09:00:00,17:30:00,All
+Gujarat Science City,Ahmedabad,23.1057,72.5851,200,10:00:00,21:00:00,All
+Gulmarg,Kashmir,34.0494,74.3829,0,00:00:00,23:59:59,All
+Haji Ali Dargah,Mumbai,18.9829,72.8106,0,05:30:00,22:00:00,All
+HAL Aerospace Museum,Bangalore,12.9546,77.7038,50,09:00:00,17:00:00,All
+Hauz Khas Complex,Delhi,28.5494,77.2001,0,06:00:00,20:00:00,All
+Hauz Khas Village,Delhi,28.5541,77.1945,0,10:30:00,23:00:00,All
+Hawa Mahal,Jaipur,26.9239,75.8267,30,09:00:00,17:00:00,All
+Hawker's Bazaar,Kolkata,22.5715,88.3639,0,10:00:00,21:00:00,All
+Howrah Bridge,Kolkata,22.5851,88.3468,0,00:00:00,23:59:59,All
+Humayun's Tomb,Delhi,28.5933,77.2507,0,06:00:00,18:00:00,All
+Hussain Sagar Lake,Hyderabad,17.4239,78.4738,0,00:00:00,23:59:59,All
+ISKCON Temple,Bangalore,13.012,77.5511,0,04:30:00,22:00:00,All
+India Gate,Delhi,28.6129,77.2295,0,00:00:00,23:59:59,All
+Indian Museum,Kolkata,22.5616,88.3517,50,10:00:00,17:00:00,All
+Jaigarh Fort,Jaipur,26.9855,75.8513,300,09:00:00,16:30:00,All
+Jaipur City Palace,Jaipur,26.9255,75.8236,300,09:30:00,17:00:00,All
+Jal Mahal,Jaipur,26.9539,75.8462,50,06:00:00,18:00:00,All
+Jantar Mantar,Delhi,28.6271,77.2166,100,09:30:00,16:30:00,All
+Jantar Mantar,Jaipur,26.9247,75.8246,100,09:00:00,16:30:00,All
+Jawaharlal Nehru Planetarium,Bangalore,12.9846,77.5894,50,10:30:00,17:30:00,All
+Juhu Beach,Mumbai,19.0759,72.8774,0,00:00:00,23:59:59,All
+Kankaria Lake,Ahmedabad,23.0216,72.5797,0,09:00:00,22:00:00,All
+Kapaleeshwarar Temple,Chennai,13.0336,80.2681,0,06:00:00,12:00:00,All
+Lalbagh Botanical Garden,Bangalore,12.9507,77.5848,0,06:00:00,19:00:00,All
+Laxminarayan Temple,Delhi,28.6328,77.1995,0,04:30:00,13:30:00,All
+Lodhi Gardens,Delhi,28.5925,77.2196,0,06:00:00,20:00:00,All
+Lotus Temple,Delhi,28.5535,77.2588,0,09:00:00,19:00:00,All
+Lumbini Park,Hyderabad,17.4109,78.4734,50,09:00:00,21:00:00,All
+Marina Beach,Chennai,13.048,80.2679,0,00:00:00,23:59:59,All
+Marine Drive,Mumbai,18.943,72.8246,0,00:00:00,23:59:59,All
+Meenakshi Amman Temple,Chennai,9.9197,78.1193,0,05:00:00,22:00:00,All
+Nahargarh Fort,Jaipur,26.9855,75.8513,200,10:00:00,17:30:00,All
+Nandi Hills,Bangalore,13.3705,77.6835,0,00:00:00,23:59:59,All
+National Rail Museum,Delhi,28.589,77.1794,50,09:30:00,17:00:00,All
+Nehru Zoological Park,Hyderabad,17.3474,78.6867,100,08:00:00,17:30:00,All
+NTR Gardens,Hyderabad,17.4145,78.4739,65,14:30:00,22:00:00,All
+Qutub Minar,Delhi,28.5245,77.1855,50,07:00:00,17:00:00,All
+Raj Ghat,Delhi,28.6415,77.2494,0,06:30:00,18:30:00,All
+Ramoji Film City,Hyderabad,17.2543,78.6808,1000,09:00:00,17:00:00,All
+Red Fort,Delhi,28.6562,77.241,100,09:30:00,16:30:00,All
+Sabarmati Ashram,Ahmedabad,23.0396,72.5681,0,08:00:00,18:30:00,All
+Sabarmati Riverfront,Ahmedabad,23.0202,72.5695,0,00:00:00,23:59:59,All
+Salar Jung Museum,Hyderabad,17.3713,78.4804,200,10:00:00,17:00:00,All
+San Thome Church,Chennai,13.0339,80.2707,0,06:00:00,20:00:00,All
+Sanjay Gandhi National Park,Mumbai,19.2149,72.8149,50,07:30:00,18:30:00,All
+Science City,Kolkata,22.5343,88.3932,100,09:30:00,20:00:00,All
+Shalimar Bagh,Kashmir,34.0836,74.7968,0,00:00:00,23:59:59,All
+Shilparamam,Hyderabad,17.4539,78.3656,50,10:30:00,20:00:00,All
+Shivanasamudra Falls,Bangalore,12.3036,77.1682,0,00:00:00,23:59:59,All
+Siddhivinayak Temple,Mumbai,19.0176,72.8309,0,05:30:00,22:00:00,All
+Sonamarg,Kashmir,34.3015,75.2579,0,00:00:00,23:59:59,All
+Swami Narayan Mandir,Delhi,28.6397,77.1859,0,07:30:00,21:00:00,All
+Taraporewala Aquarium,Mumbai,18.9569,72.813,100,10:00:00,20:00:00,All
+Tulip Garden,Kashmir,34.0689,74.7958,0,00:00:00,23:59:59,All
+Victoria Memorial,Kolkata,22.5448,88.3426,20,09:00:00,17:00:00,All
+Vidhana Soudha,Bangalore,12.9794,77.5901,0,09:00:00,17:00:00,All
+Wonderla Bangalore,Bangalore,13.0674,77.5875,800,11:00:00,18:00:00,All
